@@ -34,7 +34,7 @@ The ReactJS UI manages a connection to the wallet via the window object. Then a 
 Demo UI
 =======
 
-See video.
+See video. https://www.youtube.com/watch?v=ghsfKl2o5ZE
 
 Code
 ====
